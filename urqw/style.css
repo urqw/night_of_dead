@@ -1,0 +1,9 @@
+a:link, a:visited, a:focus {
+  color: #6495ED; 
+  text-decoration: none; 
+}
+
+a:hover, a:active {
+  color: #6495ED;  
+  text-decoration: underline;
+}
